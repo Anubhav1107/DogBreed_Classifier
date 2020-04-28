@@ -11,6 +11,9 @@ In next turn, We use Transfer learning, which then helps us in getting 64 % accu
 
 ![Image description](https://github.com/Anubhav1107/deep-learning-v2-pytorch/blob/master/project-dog-classification/images/sample_dog_output.png)
 
+The Human data could be found here http://vis-www.cs.umass.edu/lfw/lfw.tgz
+and the dog data here https://s3-us-west-1.amazonaws.com/udacity-aind/dog-project/dogImages.zip
+
 
 
 
