@@ -9,6 +9,8 @@ Breed of Dog.
 The model was first made by me which have 13% accuracy, It was built on VGG16 which was trained on thousands on images.
 In next turn, We use Transfer learning, which then helps us in getting 64 % accuracy. This time we use the Resnet model.
 
+![Image description](https://github.com/Anubhav1107/deep-learning-v2-pytorch/blob/master/project-dog-classification/images/sample_dog_output.png)
+
 
 
 
